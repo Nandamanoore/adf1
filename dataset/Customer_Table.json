@@ -1,0 +1,13 @@
+{
+	"name": "Customer_Table",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Azureproductdatabase",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
